@@ -44,7 +44,7 @@
     "jest-expo": "~51.0.3",
     "react-test-renderer": "18.2.0",
     "typescript": "~5.3.3",
-    "expo-cli":"latest"
+    "expo-cli":"~0.18.29"
   },
   "private": true
 }
